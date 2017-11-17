@@ -8,4 +8,4 @@ class Icebreaker{
 }
 
 module.exports = Icebreaker;
-require("./Question.js");
+require('./Question.js');
